@@ -1,8 +1,4 @@
-# React + Vite
+First Feature
+1. My Project Name is MuslimFesti. It is a religional projects for muslim festival event services such like as Eid Extravaganza, Ramadan Nights, Eid Bazaar, Islamic Art Showcase, Sufi Music Festival, Islamic Fashion Show etc. In this project at first it has a navbar which contains the project title MuslimFesti in the left side, in the middle three active routes link Home, About, Blog and right side contains the Login button.So, the navbar is the first features of my project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
