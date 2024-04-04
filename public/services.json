@@ -1,0 +1,45 @@
+[
+    {
+      "image": "https://i.ibb.co/KWFdZPY/Eid-Celebration-0004-JPG-gallery.jpg",
+      "id" : "1",
+      "price": "$20",
+      "name": "Eid Extravaganza",
+      "description": "Join us for a grand celebration of Eid al-Fitr, featuring delicious feasts, cultural performances, and joyful festivities.Eid Extravaganza is a reflection of our shared faith and the bonds that unite us as one Ummah. It's a day to embrace diversity, extend warm greetings, and strengthen the ties that bind us. Join us in celebrating this joyous occasion, and let the spirit of Eid fill your heart with love, happiness, and blessings.The cultural showcase at 'Eid Extravaganza' is a visual delight. Immerse yourself in the beauty of Islamic art, calligraphy, and craftsmanship. Explore vibrant market stalls filled with unique gifts, clothing, and crafts from around the world. Enjoy live musical performances, dance, and entertainment that celebrate the richness of our heritage. Join in the traditional folk dances and let the rhythm of the music carry you away.For children, there are plenty of activities to keep them engaged and entertained. Face painting, henna tattoos, and fun games await the little ones. Don't forget to capture the special moments at our photo booths."
+    },
+    {
+      "image": "https://i.ibb.co/ygYwHym/Hai-Ramadan-at-Expo-City-Dubai-photo-WAM.jpg",
+      "id" : "2",
+      "price": "$15",
+      "name": "Ramadan Nights",
+      "description": "Experience the spirituality and beauty of Ramadan with nightly prayers, iftar meals, and community gatherings.Ramadan Nights is a cherished annual tradition that invites you to immerse yourself in the profound spirituality and cultural richness of the holy month of Ramadan. This enchanting event is a celebration of faith, unity, and the timeless customs that define Ramadan for Muslims around the world. Each evening begins with the adhan, the call to prayer, setting the tone for a peaceful and contemplative atmosphere. As you partake in the iftar meal, savor a delightful spread of traditional dishes and flavors from various cultures.Engage in recitations of the Quran and gain a deeper understanding of its teachings through enlightening discussions led by respected scholars and guest speakers. Explore the rich traditions of Islam through storytelling and educational workshops."
+    },
+    {
+      "image": "https://i.ibb.co/5jL6T11/eid4.jpg",
+      "id" : "3",
+      "price": "$25",
+      "name": "Eid Bazaar",
+      "description": "Shop for unique gifts, clothing, and crafts at our vibrant Eid bazaar, showcasing the best of Muslim culture.Eid Bazaar is a spectacular celebration of the festive spirit and cultural richness of Eid al-Fitr, the joyous Muslim holiday that marks the end of Ramadan. This enchanting event invites you to embark on a vibrant journey through the heart of Islamic traditions and craftsmanship. Eid is a time of giving, and at the bazaar, you can support local artisans and charitable causes. A portion of the proceeds from the event will go towards community initiatives and those in need.Join us for a day filled with joy, culture, and community. The Eid Bazaar is not just a marketplace; it's a celebration of unity, diversity, and the vibrant tapestry of Muslim heritage. Don't miss this opportunity to experience the beauty of Eid together with your friends and family."
+    },
+    {
+      "image": "https://i.ibb.co/D4nDtkF/Islamic-teaser.jpg",
+      "id" : "4",
+      "price": "$10",
+      "name": "Islamic Art Showcase",
+      "description": "Explore the world of Islamic art and creativity with stunning exhibitions and interactive workshops.Step into a world of artistic wonder and cultural exploration at our 'Islamic Art Showcase' event. Immerse yourself in the rich tapestry of Islamic artistry, where tradition and innovation converge to create breathtaking masterpieces. From intricate calligraphy and mesmerizing geometric patterns to vivid miniature paintings and awe-inspiring architecture, this showcase is a journey through the soul of Islamic culture."
+    },
+    {
+      "image": "https://i.ibb.co/RYVZGb5/Untitled-1-copy.jpg",
+      "id" : "5",
+      "price": "$30",
+      "name": "Sufi Music Festival",
+      "description": "Immerse yourself in the mystic melodies of Sufi music, a soulful journey of devotion and love.The Sufi Music Festival is a mesmerizing and spiritually enriching musical journey that transports you to the mystical world of Sufism. This festival is a celebration of the timeless and profound Sufi musical traditions that have captivated hearts and souls for centuries.At the Sufi Music Festival, you will be immersed in the enchanting melodies, haunting poetry, and soul-stirring rhythms of Sufi music. Our festival brings together renowned Sufi musicians and performers from around the world, each with their own unique interpretation of this divine art form."
+    },
+    {
+      "image": "https://i.ibb.co/tZhFNv3/Moslema-in-style-8090401398.jpg",
+      "id" : "6",
+      "price": "$5",
+      "name": "Islamic Fashion Show",
+      "description": "Discover the latest trends in Islamic fashion at our glamorous runway showcase.The 'Islamic Fashion Show' is an extravagant celebration of modesty and style, showcasing the latest trends and creativity in the world of Islamic fashion. This enchanting event invites you to immerse yourself in the captivating fusion of tradition and modernity, where modest fashion takes center stage.Experience an unforgettable evening as talented designers and brands from around the world unveil their exquisite collections, featuring elegant abayas, hijabs, modest dresses, and contemporary attire that reflects the beauty of Islamic culture and values."
+    }
+  ]
+  
