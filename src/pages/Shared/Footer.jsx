@@ -11,7 +11,7 @@ const Footer = () => {
 
   return (
     <div>
-      <footer className="w-full bg-red-400 p-8  text-gray-800 " data-aos="flip-left"
+      <footer className="w-full bg-purple-700 p-8  text-gray-800 " data-aos="flip-left"
      data-aos-easing="ease-out-cubic">
         <div className="flex flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 bg-white text-center md:justify-between">
           <img src={logo} alt="logo-muslim" className="w-20" />

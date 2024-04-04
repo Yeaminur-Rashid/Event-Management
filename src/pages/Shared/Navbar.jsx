@@ -34,7 +34,7 @@ const Navbar = () => {
     </>
   );
   return (
-    <div className="navbar bg-purple-400">
+    <div className="navbar bg-purple-700">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -55,7 +55,7 @@ const Navbar = () => {
           </label>
           <ul
             tabIndex={0}
-            className="menu font-avenir menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-gray-100 rounded-box w-52"
+            className="menu font-bold menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-gray-100 rounded-box w-52"
           >
             {navLinks}
           </ul>
@@ -65,7 +65,7 @@ const Navbar = () => {
         </p>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu font-avenir menu-horizontal px-1">{navLinks}</ul>
+        <ul className="menu font-bold menu-horizontal px-1 ">{navLinks}</ul>
       </div>
 
       <div className="navbar-end">
@@ -88,7 +88,7 @@ const Navbar = () => {
               <li>
                 <button
                   onClick={handleLogOut}
-                  className="font-avenir mr-10 px-2 py-1 rounded bg-green-900 text-white"
+                  className="font-avenir mr-10 px-2 py-1 rounded bg-green-900 text-white font-bold"
                 >
                   Log out
                 </button>
@@ -97,7 +97,7 @@ const Navbar = () => {
           </div>
         ) : (
           <Link to="/login">
-            <button className="font-avenir mr-10 px-3 py-1 rounded bg-green-900 text-white">
+            <button className="font-avenir mr-10 px-3 py-1 rounded bg-gray-800 text-white font-bold">
               Login
             </button>
           </Link>
